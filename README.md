@@ -28,4 +28,14 @@ I maintain projects exploring accessible UI engineering, reusable component syst
 - **[Lutra UI Storybook](https://myduong.com/lutra-ui/)** — An accessibility-first React and TypeScript component library.
 - **[Lutra UI case study](https://myduong.com/portfolio/lutra-ui)** — Architecture, design decisions, token generation, and testing.
 
+## Writing
+
+Selected articles on accessible frontend engineering:
+
+- [Headings Lead the Way](https://myduong.com/writing/headings-lead-the-way)
+- [Focus on What’s Important](https://myduong.com/writing/focus-on-whats-important)
+- [A Button Is Never Just a Button](https://myduong.com/writing/a-button-is-never-just-a-button)
+
+[Read more articles on my website](https://myduong.com/writing)
+
 For more about my work, see **[myduong.com](https://myduong.com)**.
